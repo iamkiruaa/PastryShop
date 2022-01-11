@@ -16,6 +16,7 @@ export default {
     <festival-section/>
     <div class="section-padding"></div>
     <menu-section/>
+    <team-section/>
   </main>
 </template>
 
