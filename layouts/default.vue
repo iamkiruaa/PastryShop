@@ -1,9 +1,10 @@
 <script>
 import TheHeader from "../components/TheHeader";
+import TheFooter from "../components/TheFooter";
 
 export default {
   name: "default",
-  components: {TheHeader}
+  components: {TheFooter, TheHeader}
 }
 </script>
 
@@ -11,6 +12,7 @@ export default {
   <div>
     <the-header/>
     <NuxtPage/>
+    <the-footer/>
   </div>
 </template>
 
