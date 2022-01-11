@@ -31,7 +31,7 @@
             <ul class="cart">
               <li>
                 <a aria-expanded="true" aria-haspopup="true" data-toggle="dropdown" id="cart"
-                   class="btn dropdown-toggle" title="Order Online" href="#">Order Online</a>
+                   class="btn dropdown-toggle" title="Order Online" href="#">Commander en ligne</a>
               </li>
             </ul>
           </div>
@@ -39,39 +39,19 @@
             <ul class="nav navbar-nav">
               <li class="dropdown active">
                 <a href="index.html" title="Portfolio" class="dropdown-toggle" role="button" aria-haspopup="true"
-                   aria-expanded="false">Home</a>
-                <i class="ddl-switch fa fa-angle-down"></i>
-                <ul class="dropdown-menu">
-                  <li><a href="index-2.html" title="Portfolio grid">Home 1</a></li>
-                </ul>
+                   aria-expanded="false">Accueil</a>
               </li>
               <li class="dropdown">
                 <a href="#" title="Pages" class="dropdown-toggle" role="button" aria-haspopup="true"
-                   aria-expanded="false">Pages</a>
-                <i class="ddl-switch fa fa-angle-down"></i>
-                <ul class="dropdown-menu">
-                  <li><a href="about.html" title="About">About us</a></li>
-                  <li><a href="services.html" title="Services">Services</a></li>
-                  <li><a href="gallery-2.html" title="Gallery">Gallery</a></li>
-                </ul>
+                   aria-expanded="false">Menu</a>
               </li>
-              <li><a href="#menu-section" title="Features">Features</a></li>
-              <li><a href="gallery-2.html" title="Portfolio">Portfolio</a></li>
               <li class="dropdown">
-                <a href="blog.html" title="Latest News" class="dropdown-toggle" role="button" aria-haspopup="true"
-                   aria-expanded="false">Blog</a>
-                <i class="ddl-switch fa fa-angle-down"></i>
-                <ul class="dropdown-menu">
-                  <li><a href="blog-post.html" title="Blog Post">Blog Post</a></li>
-                </ul>
+                <a href="#" title="Pages" class="dropdown-toggle" role="button" aria-haspopup="true"
+                   aria-expanded="false">Mes pâtisseries</a>
               </li>
               <li class="dropdown">
                 <a href="contact-1.html" title="Latest News" class="dropdown-toggle" role="button" aria-haspopup="true"
                    aria-expanded="false">Contact</a>
-                <i class="ddl-switch fa fa-angle-down"></i>
-                <ul class="dropdown-menu">
-                  <li><a href="contact-2.html" title="Contact 2">Contact 2</a></li>
-                </ul>
               </li>
             </ul>
           </div>
