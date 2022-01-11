@@ -17,6 +17,7 @@ export default {
     <div class="section-padding"></div>
     <menu-section/>
     <team-section/>
+    <order-section/>
   </main>
 </template>
 
