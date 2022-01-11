@@ -1,12 +1,14 @@
-<template>
-<h1>App</h1>
-</template>
-
 <script>
 export default {
-  name: "index"
+  name: "index",
+  layout: "default",
 }
 </script>
+
+
+<template>
+
+</template>
 
 <style scoped>
 
