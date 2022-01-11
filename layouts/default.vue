@@ -9,11 +9,9 @@ export default {
 </script>
 
 <template>
-  <div>
-    <the-header/>
-    <NuxtPage/>
-    <the-footer/>
-  </div>
+  <the-header/>
+  <slot/>
+  <the-footer/>
 </template>
 
 <style scoped>
