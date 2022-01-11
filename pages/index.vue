@@ -14,6 +14,8 @@ export default {
     <main-carousel/>
     <welcome-section/>
     <festival-section/>
+    <div class="section-padding"></div>
+    <menu-section/>
   </main>
 </template>
 
