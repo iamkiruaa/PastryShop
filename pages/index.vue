@@ -13,6 +13,7 @@ export default {
   <main class="site-main page-spacing">
     <main-carousel/>
     <welcome-section/>
+    <festival-section/>
   </main>
 </template>
 
