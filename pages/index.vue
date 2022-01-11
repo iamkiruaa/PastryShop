@@ -18,6 +18,7 @@ export default {
     <menu-section/>
     <team-section/>
     <order-section/>
+    <counter-section/>
   </main>
 </template>
 
