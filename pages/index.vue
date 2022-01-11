@@ -12,6 +12,7 @@ export default {
 <template>
   <main class="site-main page-spacing">
     <main-carousel/>
+    <welcome-section/>
   </main>
 </template>
 
